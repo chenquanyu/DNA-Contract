@@ -1,0 +1,37 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "df880ce79a1a1ad88d11b7c18089041ac0aba41f",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "init",
+            "parameters": []
+        },
+        {
+            "name": "add_map",
+            "parameters": [
+                {
+                    "name": "key",
+                    "type": ""
+                },
+                {
+                    "name": "value",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "remove_map",
+            "parameters": [
+                {
+                    "name": "key",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "list_keys",
+            "parameters": []
+        }
+    ]
+}

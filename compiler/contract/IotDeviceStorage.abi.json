@@ -1,0 +1,42 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "57a2ca15e343c68589e7ea7c5f4229a315a35d43",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "name",
+            "parameters": []
+        },
+        {
+            "name": "getData",
+            "parameters": [
+                {
+                    "name": "key",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "setData",
+            "parameters": [
+                {
+                    "name": "key",
+                    "type": ""
+                },
+                {
+                    "name": "value",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "deleteData",
+            "parameters": [
+                {
+                    "name": "key",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

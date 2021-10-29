@@ -1,0 +1,81 @@
+{
+    "avm": {
+        "name": "hello",
+        "hash": "6668e0d085c405e5d26a21d4442f3e7763db2069"
+    },
+    "compiler": {
+        "name": "DNA-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\repos\\Gains\\DNA-Contract\\compiler\\contract\\hello.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 13,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 1
+        },
+        {
+            "start": 14,
+            "end": 32,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 5
+        },
+        {
+            "start": 33,
+            "end": 46,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 6
+        },
+        {
+            "start": 49,
+            "end": 58,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 7
+        },
+        {
+            "start": 59,
+            "end": 77,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 80,
+            "end": 82,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 6
+        },
+        {
+            "start": 83,
+            "end": 101,
+            "file": 1,
+            "method": "hello",
+            "file_line_no": 10
+        },
+        {
+            "start": 104,
+            "end": 107,
+            "file": 1,
+            "method": "hello",
+            "file_line_no": 11
+        },
+        {
+            "start": 104,
+            "end": 143,
+            "file": 1,
+            "method": "hello",
+            "file_line_no": 12
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "avm": {
+        "name": "WaybillBusiness",
+        "hash": "c0e6996510a512b38b98c5a279fdaa5230c705af"
+    },
+    "compiler": {
+        "name": "DNA-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\repos\\DNA\\compiler\\sphere\\WaybillBusiness.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 13,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 1
+        },
+        {
+            "start": 14,
+            "end": 27,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 8
+        },
+        {
+            "start": 28,
+            "end": 49,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 9
+        },
+        {
+            "start": 50,
+            "end": 62,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 11
+        },
+        {
+            "start": 63,
+            "end": 75,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 12
+        },
+        {
+            "start": 76,
+            "end": 94,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 15
+        },
+        {
+            "start": 95,
+            "end": 107,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 16
+        },
+        {
+            "start": 110,
+            "end": 125,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 17
+        },
+        {
+            "start": 128,
+            "end": 143,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 18
+        },
+        {
+            "start": 146,
+            "end": 155,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 19
+        },
+        {
+            "start": 156,
+            "end": 165,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 20
+        },
+        {
+            "start": 166,
+            "end": 184,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 21
+        },
+        {
+            "start": 187,
+            "end": 205,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 22
+        },
+        {
+            "start": 208,
+            "end": 217,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 23
+        },
+        {
+            "start": 218,
+            "end": 227,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 24
+        },
+        {
+            "start": 228,
+            "end": 237,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 25
+        },
+        {
+            "start": 238,
+            "end": 259,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 26
+        },
+        {
+            "start": 262,
+            "end": 264,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 22
+        },
+        {
+            "start": 265,
+            "end": 278,
+            "file": 1,
+            "method": "name",
+            "file_line_no": 28
+        },
+        {
+            "start": 281,
+            "end": 288,
+            "file": 1,
+            "method": "name",
+            "file_line_no": 29
+        },
+        {
+            "start": 289,
+            "end": 307,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 31
+        },
+        {
+            "start": 310,
+            "end": 330,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 32
+        },
+        {
+            "start": 353,
+            "end": 388,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 33
+        },
+        {
+            "start": 389,
+            "end": 413,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 35
+        },
+        {
+            "start": 416,
+            "end": 429,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 36
+        },
+        {
+            "start": 430,
+            "end": 467,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 37
+        },
+        {
+            "start": 468,
+            "end": 505,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 38
+        },
+        {
+            "start": 506,
+            "end": 529,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 39
+        },
+        {
+            "start": 552,
+            "end": 560,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 40
+        },
+        {
+            "start": 563,
+            "end": 576,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 41
+        },
+        {
+            "start": 577,
+            "end": 657,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 42
+        },
+        {
+            "start": 660,
+            "end": 675,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 44
+        },
+        {
+            "start": 676,
+            "end": 696,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 45
+        },
+        {
+            "start": 697,
+            "end": 776,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 46
+        },
+        {
+            "start": 697,
+            "end": 779,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 40
+        }
+    ]
+}

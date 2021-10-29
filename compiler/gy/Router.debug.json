@@ -1,0 +1,719 @@
+{
+    "avm": {
+        "name": "Router",
+        "hash": "b1c2a9fe60a5dfa84359965e6a3a4487b9828238"
+    },
+    "compiler": {
+        "name": "DNA-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\repos\\DNA\\compiler\\gy\\Router.py"
+        },
+        {
+            "id": 2,
+            "url": "D:\\repos\\DNA\\compiler\\DNA\\builtins.py"
+        },
+        {
+            "id": 3,
+            "url": "D:\\repos\\DNA\\compiler\\DNA\\libont.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 13,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 1
+        },
+        {
+            "start": 14,
+            "end": 25,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 7
+        },
+        {
+            "start": 26,
+            "end": 44,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 9
+        },
+        {
+            "start": 45,
+            "end": 57,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 10
+        },
+        {
+            "start": 60,
+            "end": 75,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 11
+        },
+        {
+            "start": 78,
+            "end": 97,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 12
+        },
+        {
+            "start": 100,
+            "end": 109,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 13
+        },
+        {
+            "start": 110,
+            "end": 119,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 14
+        },
+        {
+            "start": 120,
+            "end": 129,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 15
+        },
+        {
+            "start": 130,
+            "end": 151,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 16
+        },
+        {
+            "start": 154,
+            "end": 174,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 17
+        },
+        {
+            "start": 177,
+            "end": 186,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 18
+        },
+        {
+            "start": 187,
+            "end": 196,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 19
+        },
+        {
+            "start": 197,
+            "end": 206,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 20
+        },
+        {
+            "start": 207,
+            "end": 216,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 21
+        },
+        {
+            "start": 217,
+            "end": 241,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 22
+        },
+        {
+            "start": 244,
+            "end": 292,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 23
+        },
+        {
+            "start": 293,
+            "end": 302,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 24
+        },
+        {
+            "start": 305,
+            "end": 310,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 25
+        },
+        {
+            "start": 311,
+            "end": 320,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 26
+        },
+        {
+            "start": 321,
+            "end": 327,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 27
+        },
+        {
+            "start": 330,
+            "end": 339,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 28
+        },
+        {
+            "start": 342,
+            "end": 351,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 29
+        },
+        {
+            "start": 352,
+            "end": 361,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 30
+        },
+        {
+            "start": 362,
+            "end": 367,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 31
+        },
+        {
+            "start": 368,
+            "end": 369,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 32
+        },
+        {
+            "start": 372,
+            "end": 381,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 33
+        },
+        {
+            "start": 384,
+            "end": 393,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 34
+        },
+        {
+            "start": 394,
+            "end": 403,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 35
+        },
+        {
+            "start": 404,
+            "end": 414,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 36
+        },
+        {
+            "start": 417,
+            "end": 418,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 38
+        },
+        {
+            "start": 419,
+            "end": 427,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 40
+        },
+        {
+            "start": 428,
+            "end": 435,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 41
+        },
+        {
+            "start": 436,
+            "end": 446,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 42
+        },
+        {
+            "start": 449,
+            "end": 455,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 43
+        },
+        {
+            "start": 456,
+            "end": 468,
+            "file": 2,
+            "method": "range",
+            "file_line_no": 44
+        },
+        {
+            "start": 471,
+            "end": 476,
+            "file": 3,
+            "method": "range",
+            "file_line_no": 46
+        },
+        {
+            "start": 477,
+            "end": 496,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 177
+        },
+        {
+            "start": 499,
+            "end": 527,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 179
+        },
+        {
+            "start": 528,
+            "end": 548,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 180
+        },
+        {
+            "start": 549,
+            "end": 569,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 181
+        },
+        {
+            "start": 570,
+            "end": 578,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 182
+        },
+        {
+            "start": 579,
+            "end": 589,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 183
+        },
+        {
+            "start": 590,
+            "end": 595,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 184
+        },
+        {
+            "start": 596,
+            "end": 601,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 185
+        },
+        {
+            "start": 602,
+            "end": 669,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 186
+        },
+        {
+            "start": 670,
+            "end": 695,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 187
+        },
+        {
+            "start": 696,
+            "end": 706,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 189
+        },
+        {
+            "start": 709,
+            "end": 727,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 190
+        },
+        {
+            "start": 730,
+            "end": 741,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 191
+        },
+        {
+            "start": 744,
+            "end": 762,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 192
+        },
+        {
+            "start": 765,
+            "end": 778,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 193
+        },
+        {
+            "start": 781,
+            "end": 799,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 194
+        },
+        {
+            "start": 802,
+            "end": 815,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 195
+        },
+        {
+            "start": 818,
+            "end": 819,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 197
+        },
+        {
+            "start": 820,
+            "end": 828,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 199
+        },
+        {
+            "start": 831,
+            "end": 840,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 200
+        },
+        {
+            "start": 841,
+            "end": 854,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 201
+        },
+        {
+            "start": 855,
+            "end": 874,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 202
+        },
+        {
+            "start": 875,
+            "end": 885,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 203
+        },
+        {
+            "start": 888,
+            "end": 894,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 205
+        },
+        {
+            "start": 897,
+            "end": 915,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 207
+        },
+        {
+            "start": 918,
+            "end": 933,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 208
+        },
+        {
+            "start": 936,
+            "end": 954,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 209
+        },
+        {
+            "start": 957,
+            "end": 974,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 210
+        },
+        {
+            "start": 977,
+            "end": 995,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 211
+        },
+        {
+            "start": 998,
+            "end": 1015,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 212
+        },
+        {
+            "start": 1018,
+            "end": 1019,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 214
+        },
+        {
+            "start": 1020,
+            "end": 1028,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 216
+        },
+        {
+            "start": 1031,
+            "end": 1050,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 217
+        },
+        {
+            "start": 1051,
+            "end": 1060,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 218
+        },
+        {
+            "start": 1061,
+            "end": 1073,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 219
+        },
+        {
+            "start": 1076,
+            "end": 1087,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 221
+        },
+        {
+            "start": 1090,
+            "end": 1095,
+            "file": 3,
+            "method": "hexstring2bytes",
+            "file_line_no": 223
+        },
+        {
+            "start": 1096,
+            "end": 1119,
+            "file": 3,
+            "method": "elt_in",
+            "file_line_no": 14
+        },
+        {
+            "start": 1122,
+            "end": 1176,
+            "file": 3,
+            "method": "elt_in",
+            "file_line_no": 15
+        },
+        {
+            "start": 1177,
+            "end": 1187,
+            "file": 3,
+            "method": "elt_in",
+            "file_line_no": 16
+        },
+        {
+            "start": 1190,
+            "end": 1197,
+            "file": 3,
+            "method": "elt_in",
+            "file_line_no": 17
+        },
+        {
+            "start": 1200,
+            "end": 1203,
+            "file": 3,
+            "method": "elt_in",
+            "file_line_no": 18
+        },
+        {
+            "start": 1204,
+            "end": 1222,
+            "file": 3,
+            "method": "bytearray_reverse",
+            "file_line_no": 226
+        },
+        {
+            "start": 1225,
+            "end": 1233,
+            "file": 3,
+            "method": "bytearray_reverse",
+            "file_line_no": 227
+        },
+        {
+            "start": 1234,
+            "end": 1239,
+            "file": 3,
+            "method": "bytearray_reverse",
+            "file_line_no": 228
+        },
+        {
+            "start": 1240,
+            "end": 1309,
+            "file": 3,
+            "method": "bytearray_reverse",
+            "file_line_no": 229
+        },
+        {
+            "start": 1310,
+            "end": 1335,
+            "file": 3,
+            "method": "bytearray_reverse",
+            "file_line_no": 230
+        },
+        {
+            "start": 1336,
+            "end": 1348,
+            "file": 3,
+            "method": "bytearray_reverse",
+            "file_line_no": 231
+        },
+        {
+            "start": 1351,
+            "end": 1356,
+            "file": 1,
+            "method": "bytearray_reverse",
+            "file_line_no": 232
+        },
+        {
+            "start": 1357,
+            "end": 1370,
+            "file": 1,
+            "method": "name",
+            "file_line_no": 25
+        },
+        {
+            "start": 1373,
+            "end": 1380,
+            "file": 1,
+            "method": "name",
+            "file_line_no": 26
+        },
+        {
+            "start": 1381,
+            "end": 1404,
+            "file": 1,
+            "method": "setContract",
+            "file_line_no": 28
+        },
+        {
+            "start": 1407,
+            "end": 1417,
+            "file": 1,
+            "method": "setContract",
+            "file_line_no": 29
+        },
+        {
+            "start": 1418,
+            "end": 1449,
+            "file": 1,
+            "method": "setContract",
+            "file_line_no": 30
+        },
+        {
+            "start": 1450,
+            "end": 1483,
+            "file": 1,
+            "method": "setContract",
+            "file_line_no": 31
+        },
+        {
+            "start": 1503,
+            "end": 1530,
+            "file": 1,
+            "method": "setContract",
+            "file_line_no": 32
+        },
+        {
+            "start": 1553,
+            "end": 1556,
+            "file": 1,
+            "method": "setContract",
+            "file_line_no": 33
+        },
+        {
+            "start": 1557,
+            "end": 1585,
+            "file": 1,
+            "method": "callContract",
+            "file_line_no": 35
+        },
+        {
+            "start": 1588,
+            "end": 1642,
+            "file": 1,
+            "method": "callContract",
+            "file_line_no": 36
+        },
+        {
+            "start": 1643,
+            "end": 1677,
+            "file": 1,
+            "method": "callContract",
+            "file_line_no": 37
+        },
+        {
+            "start": 1678,
+            "end": 1706,
+            "file": 1,
+            "method": "callContract",
+            "file_line_no": 38
+        },
+        {
+            "start": 1678,
+            "end": 1734,
+            "file": 1,
+            "method": "callContract",
+            "file_line_no": 39
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Functions": [
+        {
+            "Method": "Global#Code",
+            "VarMap": {
+                "Cversion": 0
+            }
+        },
+        {
+            "Method": "Main",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "operation": 1,
+                "args": 2,
+                "msg": 3,
+                "Function_Call_Arglen###FixedName0": 4
+            }
+        },
+        {
+            "Method": "range",
+            "VarMap": {}
+        },
+        {
+            "Method": "hello",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "msg": 2
+            }
+        }
+    ]
+}

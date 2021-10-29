@@ -1,0 +1,116 @@
+{
+    "Functions": [
+        {
+            "Method": "Global#Code",
+            "VarMap": {
+                "Cversion": 0,
+                "Name": 1
+            }
+        },
+        {
+            "Method": "Main",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "operation": 1,
+                "args": 2,
+                "Function_Call_Arglen###FixedName0": 3,
+                "name": 4,
+                "address": 5,
+                "params": 6
+            }
+        },
+        {
+            "Method": "range",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "arg": 2,
+                "start": 3,
+                "stop": 4,
+                "step": 5,
+                "lst": 6,
+                "iteri": 7
+            }
+        },
+        {
+            "Method": "hexstring2bytes",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "arg": 2,
+                "elt_p0": 3,
+                "elt_p1": 4,
+                "elt_p2": 5,
+                "slen": 6,
+                "str_res": 7,
+                "num": 8,
+                "ForIndexPrefix_Var###0": 9,
+                "Function_Call_Arglen###FixedName0": 10,
+                "ForIndexPrefix_Var###1": 11,
+                "ForIndexPrefix_Var###2": 12,
+                "i": 13,
+                "cur_char": 14
+            }
+        },
+        {
+            "Method": "elt_in",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "l": 2,
+                "elt": 3,
+                "ForIndexPrefix_Var###0": 4,
+                "ForIndexPrefix_Var###1": 5,
+                "ForIndexPrefix_Var###2": 6,
+                "i": 7
+            }
+        },
+        {
+            "Method": "bytearray_reverse",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "arg": 2,
+                "slen": 3,
+                "res": 4,
+                "ForIndexPrefix_Var###0": 5,
+                "Function_Call_Arglen###FixedName0": 6,
+                "ForIndexPrefix_Var###1": 7,
+                "ForIndexPrefix_Var###2": 8,
+                "i": 9,
+                "cur_byte": 10
+            }
+        },
+        {
+            "Method": "name",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1
+            }
+        },
+        {
+            "Method": "setContract",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "name": 2,
+                "address": 3,
+                "Function_Call_Arglen###FixedName0": 4,
+                "Function_Call_Arglen###FixedName1": 5,
+                "reversedContractAddress": 6
+            }
+        },
+        {
+            "Method": "callContract",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "name": 2,
+                "operation": 3,
+                "params": 4,
+                "reversedContractAddress": 5,
+                "res": 6
+            }
+        }
+    ]
+}

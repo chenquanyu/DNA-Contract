@@ -1,0 +1,33 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "30524f7dc34124bc1ec26a04b9a24dadefdc6ea6",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "name",
+            "parameters": []
+        },
+        {
+            "name": "getData",
+            "parameters": [
+                {
+                    "name": "key",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "appendData",
+            "parameters": [
+                {
+                    "name": "key",
+                    "type": ""
+                },
+                {
+                    "name": "value",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

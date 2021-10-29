@@ -1,0 +1,263 @@
+{
+    "avm": {
+        "name": "OwnerBusiness",
+        "hash": "2977e49e1c5f70e62fa7fb29e773958eaa3dcb33"
+    },
+    "compiler": {
+        "name": "DNA-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\repos\\DNA\\compiler\\sphere\\OwnerBusiness.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 13,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 1
+        },
+        {
+            "start": 14,
+            "end": 27,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 8
+        },
+        {
+            "start": 28,
+            "end": 47,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 9
+        },
+        {
+            "start": 48,
+            "end": 60,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 11
+        },
+        {
+            "start": 61,
+            "end": 73,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 12
+        },
+        {
+            "start": 74,
+            "end": 92,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 15
+        },
+        {
+            "start": 93,
+            "end": 105,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 16
+        },
+        {
+            "start": 108,
+            "end": 123,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 17
+        },
+        {
+            "start": 126,
+            "end": 141,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 18
+        },
+        {
+            "start": 144,
+            "end": 153,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 19
+        },
+        {
+            "start": 154,
+            "end": 163,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 20
+        },
+        {
+            "start": 164,
+            "end": 182,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 21
+        },
+        {
+            "start": 185,
+            "end": 203,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 22
+        },
+        {
+            "start": 206,
+            "end": 215,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 23
+        },
+        {
+            "start": 216,
+            "end": 225,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 24
+        },
+        {
+            "start": 226,
+            "end": 235,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 25
+        },
+        {
+            "start": 236,
+            "end": 257,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 26
+        },
+        {
+            "start": 260,
+            "end": 262,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 22
+        },
+        {
+            "start": 263,
+            "end": 276,
+            "file": 1,
+            "method": "name",
+            "file_line_no": 28
+        },
+        {
+            "start": 279,
+            "end": 286,
+            "file": 1,
+            "method": "name",
+            "file_line_no": 29
+        },
+        {
+            "start": 287,
+            "end": 305,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 31
+        },
+        {
+            "start": 308,
+            "end": 328,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 32
+        },
+        {
+            "start": 351,
+            "end": 386,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 33
+        },
+        {
+            "start": 387,
+            "end": 411,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 35
+        },
+        {
+            "start": 414,
+            "end": 427,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 36
+        },
+        {
+            "start": 428,
+            "end": 465,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 37
+        },
+        {
+            "start": 466,
+            "end": 503,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 38
+        },
+        {
+            "start": 504,
+            "end": 527,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 39
+        },
+        {
+            "start": 550,
+            "end": 558,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 40
+        },
+        {
+            "start": 561,
+            "end": 574,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 41
+        },
+        {
+            "start": 575,
+            "end": 655,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 42
+        },
+        {
+            "start": 658,
+            "end": 673,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 44
+        },
+        {
+            "start": 674,
+            "end": 694,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 45
+        },
+        {
+            "start": 695,
+            "end": 774,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 46
+        },
+        {
+            "start": 695,
+            "end": 777,
+            "file": 1,
+            "method": "appendData",
+            "file_line_no": 40
+        }
+    ]
+}

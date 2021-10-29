@@ -1,0 +1,58 @@
+{
+    "Functions": [
+        {
+            "Method": "Global#Code",
+            "VarMap": {
+                "Cversion": 0,
+                "HistoryPrefix": 1,
+                "Name": 2,
+                "GetMethod": 3,
+                "SetMethod": 4
+            }
+        },
+        {
+            "Method": "Main",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "operation": 1,
+                "args": 2,
+                "Function_Call_Arglen###FixedName0": 3,
+                "key": 4,
+                "value": 5
+            }
+        },
+        {
+            "Method": "range",
+            "VarMap": {}
+        },
+        {
+            "Method": "name",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1
+            }
+        },
+        {
+            "Method": "getData",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "key": 2
+            }
+        },
+        {
+            "Method": "appendData",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "key": 2,
+                "value": 3,
+                "historyKey": 4,
+                "oldValue": 5,
+                "oldHistory": 6,
+                "newHistory": 7,
+                "hisContent": 8
+            }
+        }
+    ]
+}

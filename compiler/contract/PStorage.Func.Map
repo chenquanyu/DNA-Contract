@@ -1,0 +1,62 @@
+{
+    "Functions": [
+        {
+            "Method": "Global#Code",
+            "VarMap": {
+                "Cversion": 0,
+                "Name": 1,
+                "Owner": 2
+            }
+        },
+        {
+            "Method": "Main",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "operation": 1,
+                "args": 2,
+                "Function_Call_Arglen###FixedName0": 3,
+                "key": 4,
+                "value": 5
+            }
+        },
+        {
+            "Method": "range",
+            "VarMap": {}
+        },
+        {
+            "Method": "name",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1
+            }
+        },
+        {
+            "Method": "getData",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "key": 2,
+                "sc": 3
+            }
+        },
+        {
+            "Method": "setData",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "key": 2,
+                "value": 3,
+                "sc": 4
+            }
+        },
+        {
+            "Method": "deleteData",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "key": 2,
+                "sc": 3
+            }
+        }
+    ]
+}

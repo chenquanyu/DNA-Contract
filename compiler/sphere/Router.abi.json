@@ -1,0 +1,41 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "b1c2a9fe60a5dfa84359965e6a3a4487b9828238",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "name",
+            "parameters": []
+        },
+        {
+            "name": "setContract",
+            "parameters": [
+                {
+                    "name": "name",
+                    "type": ""
+                },
+                {
+                    "name": "address",
+                    "type": ""
+                }
+            ]
+        },
+        {
+            "name": "callContract",
+            "parameters": [
+                {
+                    "name": "name",
+                    "type": ""
+                },
+                {
+                    "name": "operation",
+                    "type": ""
+                },
+                {
+                    "name": "params",
+                    "type": ""
+                }
+            ]
+        }
+    ]
+}

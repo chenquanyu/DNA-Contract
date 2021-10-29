@@ -1,0 +1,263 @@
+{
+    "avm": {
+        "name": "Storage",
+        "hash": "b72ab025a153b02e103b704ff9afa46e2a89b816"
+    },
+    "compiler": {
+        "name": "DNA-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\repos\\DNA\\compiler\\contract\\Storage.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 13,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 1
+        },
+        {
+            "start": 14,
+            "end": 26,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 6
+        },
+        {
+            "start": 27,
+            "end": 45,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 8
+        },
+        {
+            "start": 46,
+            "end": 58,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 9
+        },
+        {
+            "start": 61,
+            "end": 76,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 10
+        },
+        {
+            "start": 79,
+            "end": 94,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 11
+        },
+        {
+            "start": 97,
+            "end": 106,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 12
+        },
+        {
+            "start": 107,
+            "end": 116,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 13
+        },
+        {
+            "start": 117,
+            "end": 135,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 14
+        },
+        {
+            "start": 138,
+            "end": 153,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 15
+        },
+        {
+            "start": 156,
+            "end": 165,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 16
+        },
+        {
+            "start": 166,
+            "end": 175,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 17
+        },
+        {
+            "start": 176,
+            "end": 185,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 18
+        },
+        {
+            "start": 186,
+            "end": 207,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 19
+        },
+        {
+            "start": 210,
+            "end": 228,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 20
+        },
+        {
+            "start": 231,
+            "end": 240,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 21
+        },
+        {
+            "start": 241,
+            "end": 250,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 22
+        },
+        {
+            "start": 251,
+            "end": 269,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 23
+        },
+        {
+            "start": 272,
+            "end": 275,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 24
+        },
+        {
+            "start": 276,
+            "end": 289,
+            "file": 1,
+            "method": "name",
+            "file_line_no": 26
+        },
+        {
+            "start": 292,
+            "end": 299,
+            "file": 1,
+            "method": "name",
+            "file_line_no": 27
+        },
+        {
+            "start": 300,
+            "end": 318,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 29
+        },
+        {
+            "start": 321,
+            "end": 352,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 30
+        },
+        {
+            "start": 353,
+            "end": 373,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 31
+        },
+        {
+            "start": 396,
+            "end": 424,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 32
+        },
+        {
+            "start": 425,
+            "end": 448,
+            "file": 1,
+            "method": "setData",
+            "file_line_no": 34
+        },
+        {
+            "start": 451,
+            "end": 482,
+            "file": 1,
+            "method": "setData",
+            "file_line_no": 35
+        },
+        {
+            "start": 483,
+            "end": 492,
+            "file": 1,
+            "method": "setData",
+            "file_line_no": 36
+        },
+        {
+            "start": 512,
+            "end": 532,
+            "file": 1,
+            "method": "setData",
+            "file_line_no": 37
+        },
+        {
+            "start": 555,
+            "end": 558,
+            "file": 1,
+            "method": "setData",
+            "file_line_no": 38
+        },
+        {
+            "start": 559,
+            "end": 577,
+            "file": 1,
+            "method": "deleteData",
+            "file_line_no": 40
+        },
+        {
+            "start": 580,
+            "end": 611,
+            "file": 1,
+            "method": "deleteData",
+            "file_line_no": 41
+        },
+        {
+            "start": 612,
+            "end": 618,
+            "file": 1,
+            "method": "deleteData",
+            "file_line_no": 42
+        },
+        {
+            "start": 641,
+            "end": 664,
+            "file": 1,
+            "method": "deleteData",
+            "file_line_no": 43
+        },
+        {
+            "start": 641,
+            "end": 690,
+            "file": 1,
+            "method": "deleteData",
+            "file_line_no": 44
+        }
+    ]
+}

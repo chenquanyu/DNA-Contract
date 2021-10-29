@@ -1,0 +1,403 @@
+{
+    "avm": {
+        "name": "test",
+        "hash": "df880ce79a1a1ad88d11b7c18089041ac0aba41f"
+    },
+    "compiler": {
+        "name": "DNA-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\repos\\DNA\\compiler\\contract\\test.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 13,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 1
+        },
+        {
+            "start": 14,
+            "end": 22,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 8
+        },
+        {
+            "start": 23,
+            "end": 41,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 10
+        },
+        {
+            "start": 42,
+            "end": 54,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 11
+        },
+        {
+            "start": 57,
+            "end": 72,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 12
+        },
+        {
+            "start": 75,
+            "end": 90,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 13
+        },
+        {
+            "start": 93,
+            "end": 102,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 14
+        },
+        {
+            "start": 103,
+            "end": 112,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 15
+        },
+        {
+            "start": 113,
+            "end": 134,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 16
+        },
+        {
+            "start": 137,
+            "end": 155,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 17
+        },
+        {
+            "start": 158,
+            "end": 167,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 18
+        },
+        {
+            "start": 168,
+            "end": 186,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 19
+        },
+        {
+            "start": 189,
+            "end": 206,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 20
+        },
+        {
+            "start": 209,
+            "end": 224,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 21
+        },
+        {
+            "start": 227,
+            "end": 230,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 22
+        },
+        {
+            "start": 231,
+            "end": 244,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 24
+        },
+        {
+            "start": 247,
+            "end": 248,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 26
+        },
+        {
+            "start": 249,
+            "end": 249,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 27
+        },
+        {
+            "start": 250,
+            "end": 250,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 26
+        },
+        {
+            "start": 251,
+            "end": 251,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 27
+        },
+        {
+            "start": 256,
+            "end": 258,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 26
+        },
+        {
+            "start": 259,
+            "end": 259,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 28
+        },
+        {
+            "start": 260,
+            "end": 260,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 26
+        },
+        {
+            "start": 261,
+            "end": 261,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 28
+        },
+        {
+            "start": 266,
+            "end": 272,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 26
+        },
+        {
+            "start": 273,
+            "end": 306,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 30
+        },
+        {
+            "start": 307,
+            "end": 342,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 31
+        },
+        {
+            "start": 362,
+            "end": 397,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 33
+        },
+        {
+            "start": 420,
+            "end": 423,
+            "file": 1,
+            "method": "init",
+            "file_line_no": 35
+        },
+        {
+            "start": 424,
+            "end": 447,
+            "file": 1,
+            "method": "add_map",
+            "file_line_no": 38
+        },
+        {
+            "start": 450,
+            "end": 506,
+            "file": 1,
+            "method": "add_map",
+            "file_line_no": 39
+        },
+        {
+            "start": 507,
+            "end": 542,
+            "file": 1,
+            "method": "add_map",
+            "file_line_no": 40
+        },
+        {
+            "start": 543,
+            "end": 585,
+            "file": 1,
+            "method": "add_map",
+            "file_line_no": 42
+        },
+        {
+            "start": 608,
+            "end": 618,
+            "file": 1,
+            "method": "add_map",
+            "file_line_no": 44
+        },
+        {
+            "start": 619,
+            "end": 652,
+            "file": 1,
+            "method": "add_map",
+            "file_line_no": 45
+        },
+        {
+            "start": 653,
+            "end": 688,
+            "file": 1,
+            "method": "add_map",
+            "file_line_no": 46
+        },
+        {
+            "start": 708,
+            "end": 756,
+            "file": 1,
+            "method": "add_map",
+            "file_line_no": 47
+        },
+        {
+            "start": 779,
+            "end": 782,
+            "file": 1,
+            "method": "add_map",
+            "file_line_no": 49
+        },
+        {
+            "start": 783,
+            "end": 801,
+            "file": 1,
+            "method": "remove_map",
+            "file_line_no": 52
+        },
+        {
+            "start": 804,
+            "end": 860,
+            "file": 1,
+            "method": "remove_map",
+            "file_line_no": 53
+        },
+        {
+            "start": 861,
+            "end": 896,
+            "file": 1,
+            "method": "remove_map",
+            "file_line_no": 54
+        },
+        {
+            "start": 897,
+            "end": 949,
+            "file": 1,
+            "method": "remove_map",
+            "file_line_no": 55
+        },
+        {
+            "start": 972,
+            "end": 978,
+            "file": 1,
+            "method": "remove_map",
+            "file_line_no": 56
+        },
+        {
+            "start": 979,
+            "end": 1012,
+            "file": 1,
+            "method": "remove_map",
+            "file_line_no": 57
+        },
+        {
+            "start": 1013,
+            "end": 1048,
+            "file": 1,
+            "method": "remove_map",
+            "file_line_no": 58
+        },
+        {
+            "start": 1068,
+            "end": 1112,
+            "file": 1,
+            "method": "remove_map",
+            "file_line_no": 59
+        },
+        {
+            "start": 1135,
+            "end": 1138,
+            "file": 1,
+            "method": "remove_map",
+            "file_line_no": 60
+        },
+        {
+            "start": 1139,
+            "end": 1152,
+            "file": 1,
+            "method": "list_keys",
+            "file_line_no": 62
+        },
+        {
+            "start": 1155,
+            "end": 1211,
+            "file": 1,
+            "method": "list_keys",
+            "file_line_no": 65
+        },
+        {
+            "start": 1212,
+            "end": 1220,
+            "file": 1,
+            "method": "list_keys",
+            "file_line_no": 67
+        },
+        {
+            "start": 1221,
+            "end": 1227,
+            "file": 1,
+            "method": "list_keys",
+            "file_line_no": 68
+        },
+        {
+            "start": 1228,
+            "end": 1282,
+            "file": 1,
+            "method": "list_keys",
+            "file_line_no": 69
+        },
+        {
+            "start": 1283,
+            "end": 1298,
+            "file": 1,
+            "method": "list_keys",
+            "file_line_no": 70
+        },
+        {
+            "start": 1301,
+            "end": 1311,
+            "file": 1,
+            "method": "list_keys",
+            "file_line_no": 71
+        },
+        {
+            "start": 1301,
+            "end": 1317,
+            "file": 1,
+            "method": "list_keys",
+            "file_line_no": 72
+        }
+    ]
+}
