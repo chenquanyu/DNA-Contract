@@ -2,9 +2,7 @@
     "Functions": [
         {
             "Method": "Global#Code",
-            "VarMap": {
-                "Cversion": 0
-            }
+            "VarMap": {}
         },
         {
             "Method": "Main",

@@ -1,4 +1,3 @@
-Cversion = '2.0.0'
 from DNA.interop.System.Runtime import Notify
 from DNA.builtins import concat
 

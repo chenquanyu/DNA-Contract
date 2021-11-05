@@ -1,0 +1,101 @@
+{
+    "Functions": [
+        {
+            "Method": "Global#Code",
+            "VarMap": {
+                "Cversion": 0,
+                "ListKey": 1,
+                "Name": 2
+            }
+        },
+        {
+            "Method": "Main",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "operation": 1,
+                "args": 2,
+                "msg": 3,
+                "Function_Call_Arglen###FixedName0": 4
+            }
+        },
+        {
+            "Method": "range",
+            "VarMap": {}
+        },
+        {
+            "Method": "Require",
+            "VarMap": {}
+        },
+        {
+            "Method": "RequireIsAddress",
+            "VarMap": {}
+        },
+        {
+            "Method": "RequireWitness",
+            "VarMap": {}
+        },
+        {
+            "Method": "appendList",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "msg": 2,
+                "Function_Call_Arglen###FixedName0": 3,
+                "listByte": 4,
+                "list": 5,
+                "map": 6
+            }
+        },
+        {
+            "Method": "getList",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "Function_Call_Arglen###FixedName0": 2,
+                "listByte": 3,
+                "list": 4,
+                "res": 5,
+                "ForIndexPrefix_Var###0": 6,
+                "ForIndexPrefix_Var###1": 7,
+                "ForIndexPrefix_Var###2": 8,
+                "item": 9
+            }
+        },
+        {
+            "Method": "getMapJson",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "map": 2,
+                "res": 3,
+                "ForIndexPrefix_Var###0": 4,
+                "ForIndexPrefix_Var###1": 5,
+                "ForIndexPrefix_Var###2": 6,
+                "key": 7
+            }
+        },
+        {
+            "Method": "getData",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "key": 2,
+                "sc": 3
+            }
+        },
+        {
+            "Method": "setData",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "key": 2,
+                "value": 3,
+                "sc": 4
+            }
+        },
+        {
+            "Method": "deleteData",
+            "VarMap": {}
+        }
+    ]
+}

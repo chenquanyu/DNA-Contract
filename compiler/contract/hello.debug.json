@@ -1,7 +1,7 @@
 {
     "avm": {
         "name": "hello",
-        "hash": "6668e0d085c405e5d26a21d4442f3e7763db2069"
+        "hash": "2bbdcd1a86a9db15cd4d750a4f449c14cd7b6778"
     },
     "compiler": {
         "name": "DNA-Python-Compile",
@@ -16,66 +16,59 @@
     "map": [
         {
             "start": 0,
-            "end": 13,
+            "end": 21,
             "file": 1,
-            "method": "Global#Code",
-            "file_line_no": 1
+            "method": "Main",
+            "file_line_no": 4
         },
         {
-            "start": 14,
-            "end": 32,
+            "start": 22,
+            "end": 35,
             "file": 1,
             "method": "Main",
             "file_line_no": 5
         },
         {
-            "start": 33,
-            "end": 46,
+            "start": 38,
+            "end": 47,
             "file": 1,
             "method": "Main",
             "file_line_no": 6
         },
         {
-            "start": 49,
-            "end": 58,
+            "start": 48,
+            "end": 66,
             "file": 1,
             "method": "Main",
             "file_line_no": 7
         },
         {
-            "start": 59,
-            "end": 77,
+            "start": 69,
+            "end": 71,
             "file": 1,
             "method": "Main",
-            "file_line_no": 8
+            "file_line_no": 5
         },
         {
-            "start": 80,
-            "end": 82,
+            "start": 72,
+            "end": 90,
             "file": 1,
-            "method": "Main",
-            "file_line_no": 6
+            "method": "hello",
+            "file_line_no": 9
         },
         {
-            "start": 83,
-            "end": 101,
+            "start": 93,
+            "end": 96,
             "file": 1,
             "method": "hello",
             "file_line_no": 10
         },
         {
-            "start": 104,
-            "end": 107,
+            "start": 93,
+            "end": 132,
             "file": 1,
             "method": "hello",
             "file_line_no": 11
-        },
-        {
-            "start": 104,
-            "end": 143,
-            "file": 1,
-            "method": "hello",
-            "file_line_no": 12
         }
     ]
 }

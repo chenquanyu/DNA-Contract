@@ -1,0 +1,11 @@
+{
+    "CompilerVersion": "2.0.0",
+    "hash": "417e68329fd7c5b677ce216c65fa7fc53ed7ee2e",
+    "entrypoint": "Main",
+    "functions": [
+        {
+            "name": "name",
+            "parameters": []
+        }
+    ]
+}

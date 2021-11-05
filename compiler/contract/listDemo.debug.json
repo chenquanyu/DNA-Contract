@@ -1,0 +1,333 @@
+{
+    "avm": {
+        "name": "listDemo",
+        "hash": "93568d9f877a4a6875d78075c267e251505256a2"
+    },
+    "compiler": {
+        "name": "DNA-Python-Compile",
+        "version": "2.0.0"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "D:\\repos\\Gains\\DNA-Contract\\compiler\\contract\\listDemo.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 0,
+            "end": 13,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 1
+        },
+        {
+            "start": 14,
+            "end": 26,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 9
+        },
+        {
+            "start": 27,
+            "end": 40,
+            "file": 1,
+            "method": "Global#Code",
+            "file_line_no": 10
+        },
+        {
+            "start": 41,
+            "end": 59,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 12
+        },
+        {
+            "start": 60,
+            "end": 78,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 13
+        },
+        {
+            "start": 81,
+            "end": 90,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 14
+        },
+        {
+            "start": 91,
+            "end": 109,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 15
+        },
+        {
+            "start": 112,
+            "end": 127,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 16
+        },
+        {
+            "start": 130,
+            "end": 145,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 17
+        },
+        {
+            "start": 148,
+            "end": 150,
+            "file": 1,
+            "method": "Main",
+            "file_line_no": 16
+        },
+        {
+            "start": 151,
+            "end": 169,
+            "file": 1,
+            "method": "appendList",
+            "file_line_no": 19
+        },
+        {
+            "start": 172,
+            "end": 193,
+            "file": 1,
+            "method": "appendList",
+            "file_line_no": 20
+        },
+        {
+            "start": 194,
+            "end": 202,
+            "file": 1,
+            "method": "appendList",
+            "file_line_no": 21
+        },
+        {
+            "start": 205,
+            "end": 214,
+            "file": 1,
+            "method": "appendList",
+            "file_line_no": 22
+        },
+        {
+            "start": 217,
+            "end": 252,
+            "file": 1,
+            "method": "appendList",
+            "file_line_no": 24
+        },
+        {
+            "start": 253,
+            "end": 269,
+            "file": 1,
+            "method": "appendList",
+            "file_line_no": 25
+        },
+        {
+            "start": 270,
+            "end": 276,
+            "file": 1,
+            "method": "appendList",
+            "file_line_no": 26
+        },
+        {
+            "start": 277,
+            "end": 323,
+            "file": 1,
+            "method": "appendList",
+            "file_line_no": 27
+        },
+        {
+            "start": 324,
+            "end": 327,
+            "file": 1,
+            "method": "appendList",
+            "file_line_no": 28
+        },
+        {
+            "start": 328,
+            "end": 342,
+            "file": 1,
+            "method": "getList",
+            "file_line_no": 30
+        },
+        {
+            "start": 345,
+            "end": 366,
+            "file": 1,
+            "method": "getList",
+            "file_line_no": 31
+        },
+        {
+            "start": 367,
+            "end": 375,
+            "file": 1,
+            "method": "getList",
+            "file_line_no": 32
+        },
+        {
+            "start": 378,
+            "end": 387,
+            "file": 1,
+            "method": "getList",
+            "file_line_no": 33
+        },
+        {
+            "start": 390,
+            "end": 425,
+            "file": 1,
+            "method": "getList",
+            "file_line_no": 35
+        },
+        {
+            "start": 426,
+            "end": 432,
+            "file": 1,
+            "method": "getList",
+            "file_line_no": 36
+        },
+        {
+            "start": 433,
+            "end": 487,
+            "file": 1,
+            "method": "getList",
+            "file_line_no": 37
+        },
+        {
+            "start": 488,
+            "end": 515,
+            "file": 1,
+            "method": "getList",
+            "file_line_no": 38
+        },
+        {
+            "start": 518,
+            "end": 528,
+            "file": 1,
+            "method": "getList",
+            "file_line_no": 39
+        },
+        {
+            "start": 529,
+            "end": 534,
+            "file": 1,
+            "method": "getList",
+            "file_line_no": 40
+        },
+        {
+            "start": 535,
+            "end": 554,
+            "file": 1,
+            "method": "getMapJson",
+            "file_line_no": 42
+        },
+        {
+            "start": 557,
+            "end": 563,
+            "file": 1,
+            "method": "getMapJson",
+            "file_line_no": 48
+        },
+        {
+            "start": 564,
+            "end": 619,
+            "file": 1,
+            "method": "getMapJson",
+            "file_line_no": 49
+        },
+        {
+            "start": 620,
+            "end": 639,
+            "file": 1,
+            "method": "getMapJson",
+            "file_line_no": 50
+        },
+        {
+            "start": 640,
+            "end": 660,
+            "file": 1,
+            "method": "getMapJson",
+            "file_line_no": 51
+        },
+        {
+            "start": 663,
+            "end": 673,
+            "file": 1,
+            "method": "getMapJson",
+            "file_line_no": 52
+        },
+        {
+            "start": 674,
+            "end": 679,
+            "file": 1,
+            "method": "getMapJson",
+            "file_line_no": 53
+        },
+        {
+            "start": 680,
+            "end": 698,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 55
+        },
+        {
+            "start": 701,
+            "end": 732,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 56
+        },
+        {
+            "start": 733,
+            "end": 753,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 57
+        },
+        {
+            "start": 776,
+            "end": 804,
+            "file": 1,
+            "method": "getData",
+            "file_line_no": 58
+        },
+        {
+            "start": 805,
+            "end": 828,
+            "file": 1,
+            "method": "setData",
+            "file_line_no": 60
+        },
+        {
+            "start": 831,
+            "end": 862,
+            "file": 1,
+            "method": "setData",
+            "file_line_no": 61
+        },
+        {
+            "start": 863,
+            "end": 872,
+            "file": 1,
+            "method": "setData",
+            "file_line_no": 62
+        },
+        {
+            "start": 892,
+            "end": 912,
+            "file": 1,
+            "method": "setData",
+            "file_line_no": 63
+        },
+        {
+            "start": 892,
+            "end": 938,
+            "file": 1,
+            "method": "setData",
+            "file_line_no": 64
+        }
+    ]
+}

@@ -12,7 +12,7 @@
 
 智能合约是区块链最重要的特性之一，也是区块链能够被称为颠覆性技术的主要原因。
 
-DNA智能合约的编写使用Python语言编写，在Python3 (3.6-3.8)的环境下编译，编译器项目所在地址为：
+DNA智能合约的编写使用Python语言编写，在Python3 (3.6-3.7)的环境下编译，编译器项目所在地址为：
 https://github.com/DNAProject/DNA-Python-Compiler
 
 

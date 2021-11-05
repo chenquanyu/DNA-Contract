@@ -1,0 +1,345 @@
+{
+    "Functions": [
+        {
+            "Method": "Global#Code",
+            "VarMap": {
+                "Cversion": 0,
+                "OwnerKey": 1,
+                "AssetPrefix": 2,
+                "HistoryPrefix": 3,
+                "IssuerAddressMap": 4,
+                "FinanceAddressMap": 5,
+                "Name": 6,
+                "AssetInfo": 7,
+                "FinanceInfo": 8,
+                "getData": 9,
+                "setData": 10,
+                "issueAsset": 11,
+                "changeStatus": 12,
+                "pledgeAsset": 13,
+                "releaseAsset": 14,
+                "getAsset": 15,
+                "getAssetHistory": 16,
+                "initOwner": 17,
+                "changeOwner": 18,
+                "addIssuer": 19,
+                "removeIssuer": 20,
+                "addFinance": 21,
+                "removeFinance": 22
+            }
+        },
+        {
+            "Method": "Main",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "operation": 1,
+                "args": 2,
+                "Function_Call_Arglen###FixedName0": 3,
+                "key": 4,
+                "value": 5,
+                "value1": 6,
+                "value2": 7
+            }
+        },
+        {
+            "Method": "range",
+            "VarMap": {}
+        },
+        {
+            "Method": "Require",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "expr": 2,
+                "message": 3
+            }
+        },
+        {
+            "Method": "RequireIsAddress",
+            "VarMap": {}
+        },
+        {
+            "Method": "RequireWitness",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "address": 2,
+                "Function_Call_Arglen###FixedName0": 3
+            }
+        },
+        {
+            "Method": "name",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1
+            }
+        },
+        {
+            "Method": "getAssetKey",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "assetId": 2
+            }
+        },
+        {
+            "Method": "getHistoryKey",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "assetId": 2
+            }
+        },
+        {
+            "Method": "issueAssetF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "assetId": 2,
+                "assetInfo": 3,
+                "Function_Call_Arglen###FixedName0": 4,
+                "map": 5,
+                "Function_Call_Arglen###FixedName1": 6
+            }
+        },
+        {
+            "Method": "changeStatusF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "assetId": 2,
+                "assetInfo": 3,
+                "Function_Call_Arglen###FixedName0": 4,
+                "Function_Call_Arglen###FixedName1": 5,
+                "oldMap": 6,
+                "newMap": 7,
+                "Function_Call_Arglen###FixedName2": 8
+            }
+        },
+        {
+            "Method": "pledgeAssetF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "assetId": 2,
+                "assetInfo": 3,
+                "financeInfo": 4,
+                "Function_Call_Arglen###FixedName0": 5,
+                "newMap": 6,
+                "Function_Call_Arglen###FixedName1": 7
+            }
+        },
+        {
+            "Method": "releaseAssetF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "assetId": 2,
+                "assetInfo": 3,
+                "financeInfo": 4,
+                "Function_Call_Arglen###FixedName0": 5,
+                "newMap": 6,
+                "Function_Call_Arglen###FixedName1": 7
+            }
+        },
+        {
+            "Method": "getAssetF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "assetId": 2,
+                "Function_Call_Arglen###FixedName0": 3,
+                "Function_Call_Arglen###FixedName1": 4,
+                "assetByte": 5
+            }
+        },
+        {
+            "Method": "getAssetHistoryF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "assetId": 2,
+                "Function_Call_Arglen###FixedName0": 3,
+                "Function_Call_Arglen###FixedName1": 4,
+                "hisByte": 5
+            }
+        },
+        {
+            "Method": "initOwnerF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "address": 2,
+                "Function_Call_Arglen###FixedName0": 3
+            }
+        },
+        {
+            "Method": "changeOwnerF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "address": 2,
+                "Function_Call_Arglen###FixedName0": 3
+            }
+        },
+        {
+            "Method": "addIssuerF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "address": 2,
+                "Function_Call_Arglen###FixedName0": 3
+            }
+        },
+        {
+            "Method": "removeIssuerF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "address": 2,
+                "Function_Call_Arglen###FixedName0": 3
+            }
+        },
+        {
+            "Method": "addFinanceF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "address": 2,
+                "Function_Call_Arglen###FixedName0": 3
+            }
+        },
+        {
+            "Method": "removeFinanceF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "address": 2,
+                "Function_Call_Arglen###FixedName0": 3
+            }
+        },
+        {
+            "Method": "requireIssuer",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "Function_Call_Arglen###FixedName0": 2,
+                "addressMapInfo": 3,
+                "addressMap": 4,
+                "keys": 5,
+                "ForIndexPrefix_Var###0": 6,
+                "ForIndexPrefix_Var###1": 7,
+                "ForIndexPrefix_Var###2": 8,
+                "key": 9
+            }
+        },
+        {
+            "Method": "requireFinance",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "Function_Call_Arglen###FixedName0": 2,
+                "addressMapInfo": 3,
+                "addressMap": 4,
+                "keys": 5,
+                "ForIndexPrefix_Var###0": 6,
+                "ForIndexPrefix_Var###1": 7,
+                "ForIndexPrefix_Var###2": 8,
+                "key": 9
+            }
+        },
+        {
+            "Method": "requireOwner",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "Function_Call_Arglen###FixedName0": 2,
+                "owner": 3
+            }
+        },
+        {
+            "Method": "addMap",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "mapKey": 2,
+                "key": 3,
+                "val": 4,
+                "Function_Call_Arglen###FixedName0": 5,
+                "mapInfo": 6,
+                "map": 7
+            }
+        },
+        {
+            "Method": "removeMap",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "mapKey": 2,
+                "key": 3,
+                "Function_Call_Arglen###FixedName0": 4,
+                "mapInfo": 5,
+                "map": 6
+            }
+        },
+        {
+            "Method": "addHistory",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "assetId": 2,
+                "oldMap": 3,
+                "Function_Call_Arglen###FixedName0": 4,
+                "hisKey": 5,
+                "hisInfo": 6,
+                "history": 7
+            }
+        },
+        {
+            "Method": "getDataF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "key": 2
+            }
+        },
+        {
+            "Method": "setDataF",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "key": 2,
+                "val": 3
+            }
+        },
+        {
+            "Method": "getListJson",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "listByte": 2,
+                "list": 3,
+                "res": 4,
+                "ForIndexPrefix_Var###0": 5,
+                "ForIndexPrefix_Var###1": 6,
+                "ForIndexPrefix_Var###2": 7,
+                "item": 8,
+                "Function_Call_Arglen###FixedName0": 9
+            }
+        },
+        {
+            "Method": "getMapJson",
+            "VarMap": {
+                "Global_VarEnv###FixedName": 0,
+                "Local_ArgLen###FixedName": 1,
+                "mapByte": 2,
+                "map": 3,
+                "res": 4,
+                "ForIndexPrefix_Var###0": 5,
+                "ForIndexPrefix_Var###1": 6,
+                "ForIndexPrefix_Var###2": 7,
+                "key": 8
+            }
+        }
+    ]
+}
